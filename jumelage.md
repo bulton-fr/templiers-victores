@@ -1,26 +1,26 @@
-# Texte de jumelage entre les guildes « Les Templiers de Padhiver » et « Victores Valaurkos »
+# Texte de jumelage entre les guildes Â« Les Templiers de Padhiver Â» et Â« Victores Valaurkos Â»
 
-La proposition de jumelage concerne l'échange de membres entre les deux guildes pour une durée définie par ce texte sous certaines conditions.
-
-
-## L'échange
-Seul des volontaires peuvent participer à l'échange. Si un cas où la personne a été forcée à participer à l'échange est démontré, le principe même de l'échange pourra être remis en cause et potentiellement annulé.
-
-Tant qu'un échange est déjà en cours, d'autres ne peuvent pas être fait. Il faut attendre la fin de l'échange en cours pour en refaire un autre.
-
-Il n'y a aucune obligation à ce qu'un échange soit fait en permanence, il se passer une durée indéterminée sans qu'un échange n'est lieu.
+La proposition de jumelage concerne l'Ã©change de membres entre les deux guildes pour une durÃ©e dÃ©finie par ce texte sous certaines conditions.
 
 
-## Joueurs concernées
-Les joueurs concernés par la possibilité d'échange sont uniquement des joueurs appartenant aux « Les Templiers de Padhiver » et aux « Victores Valaurkos ».
-Chez les « Les Templiers de Padhiver », seul les membres ayant minimum le rang 1 inclus peuvent participer à l'échange.
-Chez les « Victores Valaurkos », seul les membres ayant minimum le rang 1 inclus peuvent participer à l'échange.
+## L'Ã©change
+Seul des volontaires peuvent participer Ã  l'Ã©change. Si un cas oÃ¹ la personne a Ã©tÃ© forcÃ©e Ã  participer Ã  l'Ã©change est dÃ©montrÃ©, le principe mÃªme de l'Ã©change pourra Ãªtre remis en cause et potentiellement annulÃ©.
 
-Un joueur ne pourra renouveler l'échange qu'une seule et unique fois par mois.
+Tant qu'un Ã©change est dÃ©jÃ  en cours, d'autres ne peuvent pas Ãªtre fait. Il faut attendre la fin de l'Ã©change en cours pour en refaire un autre.
 
-Les responsabilités que peut avoir les joueurs dans leurs guildes respectives restent d'actualité durant la période de l'échange.
+Il n'y a aucune obligation Ã  ce qu'un Ã©change soit fait en permanence, il se passer une durÃ©e indÃ©terminÃ©e sans qu'un Ã©change n'est lieu.
 
 
-## Durant l'échange
-La durée de l'échange est définie à 4 jours.
-Les joueurs participant à l'échange doivent suivre les règles de la guilde qui l'accueil.
+## Joueurs concernÃ©es
+Les joueurs concernÃ©s par la possibilitÃ© d'Ã©change sont uniquement des joueurs appartenant aux Â« Les Templiers de Padhiver Â» et aux Â« Victores Valaurkos Â».<br>
+Chez les Â« Les Templiers de Padhiver Â», seul les membres ayant minimum le rang 1 inclus peuvent participer Ã  l'Ã©change.<br>
+Chez les Â« Victores Valaurkos Â», seul les membres ayant minimum le rang 1 inclus peuvent participer Ã  l'Ã©change.<br>
+
+Un joueur ne pourra renouveler l'Ã©change qu'une seule et unique fois par mois.
+
+Les responsabilitÃ©s que peut avoir les joueurs dans leurs guildes respectives restent d'actualitÃ© durant la pÃ©riode de l'Ã©change.
+
+
+## Durant l'Ã©change
+La durÃ©e de l'Ã©change est dÃ©finie Ã  4 jours.<br>
+Les joueurs participant Ã  l'Ã©change doivent suivre les rÃ¨gles de la guilde qui l'accueil.
